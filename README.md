@@ -145,10 +145,18 @@ int main(void)
 ~~~
 ## Code Output
 
-1. Linear Search
+### 1. Linear Search
+
 ![](https://github.com/Sundar13905/Searching/blob/main/Screenshot%202024-10-21%20150910.png)
 
-2. Binary Search
+
+
+
+
+
+
+
+### 2. Binary Search
 ![](https://github.com/Sundar13905/Searching/blob/main/Screenshot%202024-10-21%20151327.png)
 
 ## Conclusion
