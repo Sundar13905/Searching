@@ -146,11 +146,10 @@ int main(void)
 ## Code Output
 
 1. Linear Search
-
-
+![](https://github.com/Sundar13905/Searching/blob/main/Screenshot%202024-10-21%20150910.png)
 
 2. Binary Search
-
+![](https://github.com/Sundar13905/Searching/blob/main/Screenshot%202024-10-21%20151327.png)
 
 ## Conclusion
 In this experiment we learnt how to search an element using different searching algorithms like linear serach and binary search 
